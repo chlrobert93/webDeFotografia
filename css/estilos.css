@@ -62,3 +62,8 @@ footer{
       text-align:center;
 
 }
+.inFooter{
+    width: 25%;
+    float: left;
+    padding: 20px;
+  }
